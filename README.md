@@ -1,2 +1,2 @@
 # helllo-world
-:thinking:
+:thinking: how is it works? :thinking:
